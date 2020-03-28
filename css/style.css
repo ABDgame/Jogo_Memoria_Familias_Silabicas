@@ -5,15 +5,20 @@
 
 body{
 	text-align: center;
-	background-color: #4A708B;
+	background-image: url("../img/BACKGROUND.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(0,0,0,0.8);
 	
 }
 
 #container{
 	width: 1325px;
 	height: 740px;
-	border: 2px solid #87CEFF;
-	background-color: #6CA6CD;
+	border: 2px solid #80fc53;
+	background-image: url("../img/BACKGROUND.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
 	position: relative;
 	margin: 10px auto;
 	border-radius: 10px;
