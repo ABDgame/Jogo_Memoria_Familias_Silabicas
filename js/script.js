@@ -14,7 +14,7 @@
 	var src = "img_fase1/";
 	
 	//Total de fases, no caso, duas fases apenas (altere esse valor de acordo com o número de fases)
-	var totFases = 17;
+	var totFases = 18;
 	
 	startGame();
 	
@@ -33,43 +33,46 @@
 			src = "img_fase4/";
 		}
 		if (fase === 5) {
-			src = "img_fase4/";
+			src = "img_fase5/";
+		}
+		if (fase === 6) {
+			src = "img_fase6/";
 		}
 		if (fase === 7) {
-			src = "img_fase4/";
-		}
-		if (fase === 4) {
-			src = "img_fase4/";
+			src = "img_fase7/";
 		}
 		if (fase === 8) {
-			src = "img_fase4/";
+			src = "img_fase8/";
 		}
 		if (fase === 9) {
-			src = "img_fase4/";
+			src = "img_fase9/";
 		}
 		if (fase === 10) {
-			src = "img_fase4/";
+			src = "img_fase10/";
 		}
 		if (fase === 11) {
-			src = "img_fase4/";
+			src = "img_fase11/";
 		}
 		if (fase === 12) {
-			src = "img_fase4/";
+			src = "img_fase12/";
 		}
 		if (fase === 13) {
-			src = "img_fase4/";
+			src = "img_fase13/";
 		}
 		if (fase === 14) {
-			src = "img_fase4/";
+			src = "img_fase14/";
 		}
 		if (fase === 15) {
-			src = "img_fase4/";
+			src = "img_fase15/";
 		}
 		if (fase === 16) {
-			src = "img_fase4/";
+			src = "img_fase16/";
 		}
 		if (fase === 17) {
-			src = "img_fase4/";
+			src = "img_fase17/";
+		}
+		if (fase === 18) {
+			src = "img_fase18/";
 		}
 	
 		for(var i = 0; i < 24; i++){
